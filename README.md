@@ -1,3 +1,3 @@
-This is a repository of mine where I include a Clang Formatting Portable folder (200 MB),
-so Clang files in VSCode would work, aka formating code if you need too, no need to instal bloated LLVM if not needed...
-just add it to the Windows environment path.
+This is a repository of mine where I include a Clang Formatting Portable folder (200 MB),  
+so Clang file would work in VSCode, it formates code with advanced settings, if you need it, no need to instal bloated LLVM if not needed...  
+just add it to the Windows environment path
